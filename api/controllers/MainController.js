@@ -15,16 +15,24 @@
  * @docs        :: http://sailsjs.org/#!documentation/controllers
  */
 
-module.exports = {
-    
-  
-
 
   /**
    * Overrides for the settings in `config/controllers.js`
    * (specific to MainController)
    */
-  _config: {}
-
-  
+var MainController = {
+    index: function (req, res) {
+         
+    },
+    signup: function (req, res) {
+         
+    },
+    login: function (req, res) {
+         
+    },
+    chat: function (req, res) {
+         
+    }
 };
+
+module.exports = MainController;
