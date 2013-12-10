@@ -9,6 +9,7 @@
 module.exports = {
 
   attributes: {
+	userId: 'INT',
   	username: 'STRING',
 	password: 'STRING'
   	/* e.g.
