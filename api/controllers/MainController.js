@@ -22,7 +22,7 @@
    */
 var MainController = {
     index: function (req, res) {
-         
+	res.view();         
     },
     signup: function (req, res) {
          
