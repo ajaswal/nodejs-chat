@@ -1,0 +1,41 @@
+body {
+	background-color: #395168;
+	color: #fff;
+}
+
+#message {
+	width: 50%;
+	border-radius: 5px;
+	vertical-align: middle;
+	padding: 6px;
+}
+
+h2, h3 {
+	font-family: Merriweather;
+	font-size: 40px;
+}
+
+h1 {
+	font-family: Merriweather;
+	font-size: 50px;
+	text-align: center;
+}
+
+#postMessageButton, #loginButton, #signupButton {
+	background-color: #31C790;
+	border-radius: 5px;
+	color: #fff;
+	font-size:15px;
+	font-family: "Merriweather Sans";
+	padding: 9px;
+}
+
+#messagesContainer {
+	font-family: sans-serif;
+}
+
+#loginName, #loginPassword, #signupPassword, #signupConfirmPassword, #signupName {
+	border-radius: 5px;
+	font-size: 20px;
+	padding: 5px;
+}
