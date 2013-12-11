@@ -1,5 +1,4 @@
 # nodejs-chat
-### a Sails application
 
 Steps to run it:
 ================
